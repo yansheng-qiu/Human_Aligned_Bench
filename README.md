@@ -46,6 +46,8 @@ Human_Aligned_Bench/
 
 ```bash
 python eval.py
+
+python eval_w_hs.py
 ```
 
 
